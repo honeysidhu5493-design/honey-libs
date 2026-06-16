@@ -1,0 +1,56 @@
+[
+  {
+    "sentence": [
+      "世間",
+      "で",
+      "は",
+      "千手",
+      "柱間",
+      "は",
+      "しらま",
+      "に",
+      "負け",
+      "た",
+      "と",
+      "さ",
+      "れ",
+      "て",
+      "いる"
+    ],
+    "meaning": "The world believed that I lost to Hashirama Senju.",
+    "audio": "audio1.mp3"
+  },
+  {
+    "sentence": [
+      "十",
+      "尾",
+      "の",
+      "チャクラ",
+      "が",
+      "陰陽",
+      "遁",
+      "の",
+      "力",
+      "を",
+      "使い",
+      "—"
+    ],
+    "meaning": "The Ten-Tails' chakra uses the power of Yin-Yang Release—",
+    "audio": "audio2.mp3"
+  },
+  {
+    "sentence": [
+      "それ",
+      "を",
+      "使っ",
+      "て",
+      "形",
+      "に",
+      "命",
+      "を",
+      "吹き込む"
+    ],
+    "meaning": "Using that, he breathes life into form.",
+    "audio": "audio3.mp3"
+  }
+]
